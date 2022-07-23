@@ -1,2 +1,2 @@
 # mycoursera
-this is the repository is for my own reference of programming assignment or practice exercises 
+mycoursera is the repository for storing programming assignment or practice exercises i worked on for my own future references.
